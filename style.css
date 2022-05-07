@@ -1,0 +1,58 @@
+header{
+    background-color: lightblue;
+    text-align: center;
+}
+
+nav {
+    background-color: lightskyblue;
+    margin: 10px;
+    text-align: center;
+    padding: 20px ;
+    border-radius: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    border: 1px solid lime;
+    border-radius: 10px;
+    background-color: lime;
+    text-align: center;
+    margin: 50px;
+    padding: 10px;
+}
+
+body {
+
+    font-size: 20px;
+}
+
+.auf {
+    font-size: 20px;
+    
+}
+
+.bI {
+    text-align: center;
+}
+
+.ddd {
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    font-size: 50px;
+    text-decoration: none;
+    text-align: center;
+    margin: 460px;
+}
+
+h2 {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.vid {
+    text-decoration: none;
+    text-align: center;
+    margin: 570px;
+    background-color: cyan;
+    border-radius: 10px;
+    padding: 6px;
+}
