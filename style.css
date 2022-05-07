@@ -56,3 +56,14 @@ h2 {
     border-radius: 10px;
     padding: 6px;
 }
+
+.naverx {
+    text-decoration: none;
+    background-color: blue;
+    padding: 7px;
+    position: fixed;
+    right: 50px;
+    top: 700px;
+    color: antiquewhite;
+    border-radius: 15px;
+}
